@@ -17,5 +17,5 @@ function johnLennonFacts(facts){
   while (facts > 0){
     facts + "!!!"
   }
-  return facts 
+  return facts
 }
